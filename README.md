@@ -1,5 +1,5 @@
 # 💫 About Me:
-Heya , My name is Nikesh Singh, and I am currently pursuing a Master's (Msc) degree in Information Technology.<br>Throughout my studies, I have gained a deep understanding of how to design, develop, and implement software solutions. <br>I am skilled in developing both front-end and back-end applications
+Heya , My name is Nikesh Singh
 
 
 ## 🌐 Socials:
